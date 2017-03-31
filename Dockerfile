@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:trusty
 MAINTAINER William Budington "bill@eff.org"
 
 RUN apt-get update && \
